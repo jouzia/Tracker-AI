@@ -1,1 +1,1 @@
-# Tracker-AI
+# Tracker-AI.  personal idea store
